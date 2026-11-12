@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Динамический баннер с твоим позиционированием -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Senior%20Full-Stack%20%26%20Systems%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=6%2B%20Years%20of%20Shipping%20Scalable%20Web%2C%20Mobile%20%26%20Low-Level%20Solutions&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Senior%20Full-Stack%20and%20Systems%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=6%2B%20Years%20of%20Shipping%20Scalable%20Web%2C%20Mobile%20and%20Low-Level%20Solutions&descAlignY=58&descSize=16" width="100%" />
 
   <!-- Динамически печатающийся текст -->
   <a href="https://git.io/typing-svg">
